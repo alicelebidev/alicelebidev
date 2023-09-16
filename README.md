@@ -1,4 +1,4 @@
-### Ali Celebi 👋
+### Hi 👋
 
 I am a life-long coding enthusiast working as a full-stack Software Developer.
 
